@@ -42,10 +42,10 @@ We use the<a href="https://scikit-learn.org/stable/modules/generated/sklearn.lin
  ![poscoef](Images/negcoef.png)<br></br>
 
 # Future Work
--Use kepler labelled time series data to train deep learning algorithms to detect exoplanets based on light fluxuations in observed stars.
--Write something that is able to parse and accurately separate stellar types (as well as predict missing values) to test predictions made against more random data. 
--Use additional data from the Open Exoplanet Catalogue to predict features of planets around stars & predicted stars. 
--When more data is available, expand predictor to include multi-planetary predictions.
+-Use kepler labelled time series data to train deep learning algorithms to detect exoplanets based on light fluxuations in observed stars. <br> </br>
+-Write something that is able to parse and accurately separate stellar types (as well as predict missing values) to test predictions made against more random data. <br> </br>
+-Use additional data from the Open Exoplanet Catalogue to predict features of planets around stars & predicted stars. <br> </br>
+-When more data is available, expand predictor to include multi-planetary predictions. <br> </br>
 
 # For More Informarion
 See the full analysis in the Jupyter Notebooks or review our Presentation.
