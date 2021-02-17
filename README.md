@@ -34,12 +34,12 @@ We use the<a href="https://scikit-learn.org/stable/modules/generated/sklearn.lin
  ![violin](Images/planetviolin.png)
 
  # Observations
- - We were able to make predictions as to wether or not a star would have n exoplanet, based on basic information about the stars themselves, with a high degree of recall, precision & accuracy. 
- ![training](Images/train.png)
- ![testing](Images/testing.png)
- - Currently our biggest predictors are things that affect how well we see stars, like their absolute magnutde, luminosity index & distance
- ![poscoef](Images/poscoef.png)
- ![poscoef](Images/negcoef.png)
+ - We were able to make predictions as to wether or not a star would have n exoplanet, based on basic information about the stars themselves, with a high degree of recall, precision & accuracy. <br></br>
+ ![training](Images/train.png) <br></br>
+ ![testing](Images/testing.png)<br></br>
+ - Currently our biggest predictors are things that affect how well we see stars, like their absolute magnutde, luminosity index & distance<br></br>
+ ![poscoef](Images/poscoef.png)<br></br>
+ ![poscoef](Images/negcoef.png)<br></br>
 
 # Future Work
 -Use kepler labelled time series data to train deep learning algorithms to detect exoplanets based on light fluxuations in observed stars.
