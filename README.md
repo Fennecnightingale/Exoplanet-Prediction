@@ -1,9 +1,8 @@
 # exoplanet-regression-project
+<br> ![MW](Images/MilkyWay.jpg) </br>
 Course: Part-Time Data Science <br>
 <br> Instructor: Amber Yandow </br> 
-<br>- Author: [Fennec C. Nightingale,](mailto:fenneccharles@gmail.com) 
-<br> ![MW](Images/MilkyWay.jpg) </br>
-
+<br>- Author: [Fennec C. Nightingale](mailto:fenneccharles@gmail.com) 
 # Overview: 
 Predict & map wether or into a stay is likely to have an exoplanet & make recommendations for astronomers to speed up the rate of exoplanet discovery Focus on recall so we're unlikely to inccoretly miss any planets. 
 
