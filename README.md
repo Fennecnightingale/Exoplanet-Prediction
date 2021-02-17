@@ -1,4 +1,4 @@
-# exoplanet-regression-project
+# Predicting Exoplanets With Logistic Regression
 <br> ![MW](Images/MilkyWay.jpg) </br>
 Course: Part-Time Data Science <br>
 <br> Instructor: Amber Yandow </br> 
@@ -8,7 +8,7 @@ Predict & map wether or into a stay is likely to have an exoplanet & make recomm
 
 # The Data:
 CSV & XML tree Data on stars, their planets, their parent systems & their physical characteristics.<br> <br>
-- Our expolanet data is from the <a href="https://github.com/astronexus/HYG-Database"> Open Exoplanet Archive/Catalog </a> & includes: Star names, magnitudes, radii, distance, right asciension/declination, spectral class</br> <br>
+- Our expolanet data is from the <a href="https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue"> Open Exoplanet Archive/Catalog </a> & includes: Star names, magnitudes, radii, distance, right asciension/declination, spectral class</br> <br>
 - Our additional star data is from the <a href="https://github.com/astronexus/HYG-Database"> HYG dataset </a> & includes: Id numbers, names, magnitudes, luminosity, x, y, z coordinates for the stars, spectral class, and some details about each stars orbit</br>  <br>
 
 # The Process:
