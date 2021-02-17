@@ -56,6 +56,7 @@ For additional info, contact me here:
 ```
 ├──.ipynb_checkpoints
 ├──.virtual_documents
+├──.__pycache__
 ├──Scrubbed.csv
 ├──Images
     ├── hist.png
