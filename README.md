@@ -74,3 +74,4 @@ For additional info, contact me here:
     ├──Presentation.pdf
 ├── Obtain & Scrub.ipynb
 └── Exoplanet Regression.ipynb
+ 
