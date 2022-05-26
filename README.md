@@ -4,7 +4,7 @@ Course: Part-Time Data Science <br>
 <br> Instructor: Amber Yandow </br> 
 <br>- Author: [Fennec C. Nightingale](mailto:fenneccharles@gmail.com) 
 # Overview: 
-Predict & map wether or into a stay is likely to have an exoplanet & make recommendations for astronomers to speed up the rate of exoplanet discovery Focus on recall so we're unlikely to inccoretly miss any planets. 
+Predict & map whether or not a star is likely to have an exoplanet & make recommendations for astronomers to speed up the rate of exoplanet discovery Focus on recall so we're unlikely to inccoretly miss any planets. 
 
 # The Data:
 CSV & XML tree Data on stars, their planets, their parent systems & their physical characteristics.<br> <br>
